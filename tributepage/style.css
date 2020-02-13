@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  border:solid;
+  border-radius: 5px;
+}
+h1 {
+  font-family: verdana;
+  font-size: 48px;
+  color:#FF8A65;
+  background-color:grey;
+}
+h2 {<div id="main">
+           <h1  id=" title ">Sardar Patel</h1>
+  <h2> 1st Deputy Prime Minister of India.</h2>
+            <div id = "img-div ">    <div id="main">
+           <h1  id=" title ">Sardar Patel</h1>
+  <h2> 1st Deputy Prime Minister of India.</h2>
+            <div id = "img-div ">    
+                               <img id = "image" src = "https://s3.india.com/wp-content/uploads/2017/12/31-October-1875-15-December-1950.jpg " alt = "Sardar Patel ">
+                               </div>
+           <p id = "img-caption">         1<sup>st</sup> Commander-in-chief of the Indian Armed Forces. </p>                                                                                    <p id = "tribute-info
+  "> Vallabhbhai Patel (31 October 1875 – 15 December 1950), popularly known as Sardar Patel, was an Indian politician. He served as the first Deputy Prime Minister of India. He was an Indian barrister and statesman, a senior leader of the Indian National Congress and a founding father of the Republic of India who played a leading role in the country's struggle for independence and guided its integration into a united, independent nation.<br><br> In India and elsewhere, he was often called Sardar, meaning "chief
+  " in Hindi, Urdu, and Persian. He acted as Home Minister during the political integration of India and the Indo-Pakistani War of 1947.<br><br>
+
+Patel was raised in the countryside of state of Gujarat. He was a successful lawyer. He subsequently organised peasants from Kheda, Borsad, and Bardoli in Gujarat in non-violent civil disobedience against the British Raj, becoming one of the most influential leaders in Gujarat. He was appointed as the 49th President of Indian National Congress, organising the party for elections in 1934 and 1937 while promoting the Quit India Movement.
+<br><br>
+As the first Home Minister and Deputy Prime Minister of India, Patel organised relief efforts for refugees fleeing to Punjab and Delhi from Pakistan and worked to restore peace. He led the task of forging a united India, successfully integrating into the newly independent nation those British colonial provinces that had been "allocated
+  " to India.<br> <br> Besides those provinces that had been under direct British rule, approximately 565 self-governing princely states had been released from British suzerainty by the Indian Independence Act of 1947. Threatening military force, Patel persuaded almost every princely state to accede to India. His commitment to national integration in the newly independent country was total and uncompromising, earning him the sobriquet "Iron Man of India ". <br><br>He is also remembered as the "patron saint of India 's civil servants" for having established the modern all-India services system. He is also called the "Unifier of India". The Statue of Unity, the world's tallest statue,
+  was dedicated to him on 31 October 2018 which is approximately 182 metres in height.</p>
+  <a href="https://en.wikipedia.org/wiki/Vallabhbhai_Patel" target="_blank" id="tribute-link">Click here  For Further Information about Sardar Patel</a>
+</div>
+                               <img id = "image" src = "https://s3.india.com/wp-content/uploads/2017/12/31-October-1875-15-December-1950.jpg " alt = "Sardar Patel ">
+                               </div>
+           <p id = "img-caption">         1<sup>st</sup> Commander-in-chief of the Indian Armed Forces. </p>                                                                                    <p id = "tribute-info
+  "> Vallabhbhai Patel (31 October 1875 – 15 December 1950), popularly known as Sardar Patel, was an Indian politician. He served as the first Deputy Prime Minister of India. He was an Indian barrister and statesman, a senior leader of the Indian National Congress and a founding father of the Republic of India who played a leading role in the country's struggle for independence and guided its integration into a united, independent nation.<br><br> In India and elsewhere, he was often called Sardar, meaning "chief
+  " in Hindi, Urdu, and Persian. He acted as Home Minister during the political integration of India and the Indo-Pakistani War of 1947.<br><br>
+
+Patel was raised in the countryside of state of Gujarat. He was a successful lawyer. He subsequently organised peasants from Kheda, Borsad, and Bardoli in Gujarat in non-violent civil disobedience against the British Raj, becoming one of the most influential leaders in Gujarat. He was appointed as the 49th President of Indian National Congress, organising the party for elections in 1934 and 1937 while promoting the Quit India Movement.
+<br><br>
+As the first Home Minister and Deputy Prime Minister of India, Patel organised relief efforts for refugees fleeing to Punjab and Delhi from Pakistan and worked to restore peace. He led the task of forging a united India, successfully integrating into the newly independent nation those British colonial provinces that had been "allocated
+  " to India.<br> <br> Besides those provinces that had been under direct British rule, approximately 565 self-governing princely states had been released from British suzerainty by the Indian Independence Act of 1947. Threatening military force, Patel persuaded almost every princely state to accede to India. His commitment to national integration in the newly independent country was total and uncompromising, earning him the sobriquet "Iron Man of India ". <br><br>He is also remembered as the "patron saint of India 's civil servants" for having established the modern all-India services system. He is also called the "Unifier of India". The Statue of Unity, the world's tallest statue,
+  was dedicated to him on 31 October 2018 which is approximately 182 metres in height.</p>
+  <a href="https://en.wikipedia.org/wiki/Vallabhbhai_Patel" target="_blank" id="tribute-link">Click here  For Further Information about Sardar Patel</a>
+</div>
+  color:#7B1FA2;
+  background-color: #7CB342 ;
+}
+#image{
+  height:300px;
+  max-width: 100%;
+  display: block;
+  height:auto;
+  border:solid;
+  border-radius: 5px;
+  border-color: #43A047 ;
+
+}
+
+}
+#img-caption {
+  font-family: Sans-serif;
+}
+p {
+  font-family: Helvetica;
+}
+#tribute-link {
+  background: white ;
+  color:#212121;
+}
+#tribute-link:hover{
+  color: #DD2C00;
+   background:#E65100;
+}
